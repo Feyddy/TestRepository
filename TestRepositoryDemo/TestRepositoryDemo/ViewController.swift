@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("我是版本一")
         print("我是版本二")
         print("我是版本三")
+        print("我是版本四")
     }
 
     override func didReceiveMemoryWarning() {
