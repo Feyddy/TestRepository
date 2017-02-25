@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("我是版本一")
+        print("我是版本二")
     }
 
     override func didReceiveMemoryWarning() {
