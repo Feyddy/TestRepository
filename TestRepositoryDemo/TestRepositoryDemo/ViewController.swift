@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         print("我是分支dev提交的")
         print("我是分支master提交的23")
         print("我是分支feature提交的23")
-        print("我是分支管理策略提交的23")
+        print("我是分支管理策略提交的修改Bug没有23")
     }
 
     override func didReceiveMemoryWarning() {
